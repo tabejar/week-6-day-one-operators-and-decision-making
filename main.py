@@ -132,6 +132,21 @@ print(my_bool)
 
 
 ########################################decision making in python#####################################
+#lesson
+# if 5 == 2:
+#   print("it is correct")
+# else:
+#   print("it is not correct")
+
+pet = 'rabbit'
+if pet == 'cat':
+  print("you have a cat")
+elif pet == 'fish':
+  print("you have a fish")
+elif pet == 'dog':
+  print("you have a dog")
+else:
+  print("I don't know what animal you have")
 
 
 # Decision Making Practice #1
